@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bdca1980-3bb5-4c4c-a5ad-ce0b95a5a084)# EX-26-AREA-OF-RECTANGLE-USING- POINTER
+# EX-26-AREA-OF-RECTANGLE-USING- POINTER
 ## AIM
 To write a C Program to find area of rectangle using pointer.
 
